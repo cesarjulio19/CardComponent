@@ -9,7 +9,7 @@ describe('UserInfoComponent', () => {
 
   beforeEach(waitForAsync(() => {
     TestBed.configureTestingModule({
-      declarations: [ UserInfoComponent ],
+      declarations: [ UserInfoComponent, ],
       imports: [IonicModule.forRoot()]
     }).compileComponents();
 
